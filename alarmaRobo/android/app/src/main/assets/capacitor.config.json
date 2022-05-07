@@ -1,0 +1,6 @@
+{
+	"appId": "io.alarmaRobo.starter",
+	"appName": "alarmaRobo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
